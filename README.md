@@ -1,22 +1,40 @@
-<h1 align="center">Hi 👋, I'm Kiran S</h1>
-<h3 align="center">A passionate web developer from India</h3>
+# Hi there, I'm Kiran S 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devkiraa&label=Profile%20views&color=0e75b6&style=flat" alt="devkiraa" /> </p>
+<a href="https://www.linkedin.com/in/kiransumesh/">
+  <img align="right" alt="Kiran's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/devkiraa">
+  <img align="right" alt="Kiran's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
-<p align="left"> <a href="https://twitter.com/devkiraa" target="blank"><img src="https://img.shields.io/twitter/follow/devkiraa?logo=twitter&style=for-the-badge" alt="devkiraa" /></a> </p>
+I'm a developer passionate about building full-stack web applications that solve real-world problems. My background in Data Science and Cyber Security gives me a unique perspective on creating products that are not only functional but also intelligent and secure.
 
-- 🔭 I’m currently working on **Leetcode Like Platform**
+---
 
-- 🌱 I’m currently learning **Next JS**
+### 🛠️ My Tech Stack
 
-- 📫 How to reach me **devkiraa@gmail.com**
+Here are the technologies I love to work with:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devkiraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkiraa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devkiraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devkiraa" height="30" width="40" /></a>
-<a href="https://instagram.com/whoiski.raa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoiski.raa" height="30" width="40" /></a>
-</p>
+**Frontend:** `React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS`  
+**Backend:** `Node.js` `Express.js`  
+**Database:** `MongoDB` `Firebase`  
+**Tools & Platforms:** `Git` `GitHub` `VS Code` `Vercel` `Postman`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🔥 My Stats & Activity
+
+My dedication and consistency are my biggest strengths.
+
+[![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devkiraa&show_icons=true&theme=radical&count_private=true)](https://github.com/devkiraa)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkiraa&layout=compact&theme=radical)](https://github.com/devkiraa)
+
+---
+
+### 📫 Let's Connect!
+
+I'm actively looking for opportunities to collaborate with founders and early-stage startups. If you have an idea and need a passionate developer to help bring it to life, let's talk!
+
+-   **Email:** devkiraa@gmail.com
+-   **LinkedIn:** [linkedin.com/in/kiransumesh](https://www.linkedin.com/in/kiransumesh/)
